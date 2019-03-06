@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Todo.css';
 
 
 // created class component with constructor with props to pass attributes

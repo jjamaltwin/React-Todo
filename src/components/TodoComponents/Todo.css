@@ -1,0 +1,45 @@
+
+
+ .todoListMain {
+    margin-left: 18%;
+    margin-top: 15%;
+    border: 2px solid white; 
+    width: 500px;
+    height: 100px;
+    background-color: royalblue;
+ }
+
+ .todoListMain .header input {
+    margin-top: 2%;
+    margin-left: 4%;
+    margin-right: 4%;
+    border: 1px solid black; 
+    width: 200px;
+    height: 30px;
+    background-color: lightblue;
+    font-weight: 900;
+
+ }
+
+ .todoListMain .header button {
+    padding: 1%;
+    margin-left: 3%;
+    background-color: lightgray;
+    color: black;
+    border-radius: 20%;
+    border: 2px solid black ;
+
+ }
+
+ .todoListMain .header button:hover {
+    background-color: white; 
+    color: blue;
+
+ }
+
+ 
+
+
+ input {
+     padding:2%;
+ }
